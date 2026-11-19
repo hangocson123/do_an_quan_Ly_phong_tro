@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "code_do_an_java_ha_ngoc_son\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "code_do_an_java_ha_ngoc_son\\lib\\mssql-jdbc-13.6.0.jre11.jar"
+    ]
+}
